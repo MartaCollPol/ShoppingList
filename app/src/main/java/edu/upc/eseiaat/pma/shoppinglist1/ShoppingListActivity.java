@@ -38,7 +38,7 @@ public class ShoppingListActivity extends AppCompatActivity {
 
         itemlist= new ArrayList<>();
         itemlist.add("Los");
-        itemlist.add("Españoles");
+        itemlist.add("Catalanes");
         itemlist.add("Hacen");
         itemlist.add("Cosas");
 
